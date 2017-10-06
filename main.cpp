@@ -54,6 +54,7 @@ int main()
 
 	}
 	if(!del_0) cout << sum<< endl;
+	else cout << "Error!" << endl;
 	system("pause");
     return 0;
 }
