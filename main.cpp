@@ -42,7 +42,7 @@ int main()
 			}
 			else
 			{
-				cout << "inf";
+				cout << "inf OR del na 0" << endl;
 				del_0 = true;
 				break;
 			}
